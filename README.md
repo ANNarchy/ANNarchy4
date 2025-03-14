@@ -1,6 +1,6 @@
-# Documentation for ANNarchy
+# Documentation for ANNarchy 4.8
 
-The documentation is at <https://annarchy.github.io>. 
+The documentation for ANNarchy < 5.0 is at <https://annarchy.github.io/ANNarchy4>. 
 
 Generating the documentation requires **Quarto** (<https://quarto.org>) and `quartodoc` (<https://github.com/machow/quartodoc>, `pip install quartodoc`) for the API. 
 
